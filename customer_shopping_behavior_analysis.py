@@ -147,7 +147,7 @@ from sqlalchemy import create_engine
 # Step 1: Connect to PostgreSQL
 # Replace placeholders with your actual details
 username = "postgres"      # default user
-password = "postgres123" # the password you set during installation
+password = "****" # the password you set during installation
 host = "localhost"         # if running locally
 port = "5432"              # default PostgreSQL port
 database = "customer_behavior"    # the database you created in pgAdmin
